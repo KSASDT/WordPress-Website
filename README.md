@@ -36,4 +36,6 @@ Languages and Tools Used:
 3) HTML
 4) CSS
 5) JavaScript
+6) PHP
+7) MySQL
 
